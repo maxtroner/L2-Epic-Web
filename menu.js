@@ -7,7 +7,7 @@ document.addEventListener("DOMContentLoaded", function() {
                     <li><a href="informacion.html">Servidor</a></li>
                     <li><a href="noticias.html">Noticias</a></li>
                     <li><a href="descargas.html">Descargas</a></li>
-                    <li><a href="cuentas.html">Cuentas</a></li>
+                    <li><a href="cuentas.html">Cuentasmax</a></li>
                     <li><a href="donacion.html">Donación</a></li>
                 </ul>
             </nav>
