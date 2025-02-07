@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap');
+
+body {
+    background-color: #121212;
+    color: #ddd;
+    font-family: 'Poppins', sans-serif;
+    padding: 20px;
+}
+
+.container {
+    max-width: 800px;
+    margin: auto;
+}
+
+.section-title {
+    font-size: 18px;
+    font-weight: bold;
+    color: #f39c12;
+    margin-bottom: 10px;
+}
+
+.download-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+}
+
+.download-table tr {
+    background-color: #2c2c2c;
+    border-bottom: 1px solid #444;
+}
+
+.download-table td {
+    padding: 12px;
+    color: #ddd;
+}
+
+.download-table .key {
+    font-weight: bold;
+    color: #fff;
+    background-color: #3a3a3a;
+    text-align: center;
+    width: 40px;
+}
+
+.download-table .icon {
+    text-align: center;
+    font-size: 16px;
+    color: #bbb;
+}
+
+.download-table .icon i {
+    cursor: pointer;
+}
+
+.download-table .icon i:hover {
+    color: #f39c12;
+}
+
+.info-box {
+    background-color: #005f6b;
+    padding: 15px;
+    border-radius: 5px;
+    color: #fff;
+    margin-bottom: 20px;
+}
+
+.info-box strong {
+    font-size: 16px;
+    display: block;
+    margin-bottom: 5px;
+}
+
+.info-box p {
+    font-size: 14px;
+    margin: 5px 0;
+}
